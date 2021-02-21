@@ -1,2 +1,3 @@
-console.log("Hello World!");
-console.log("Hello Amir Hamzeh Jabari!");
+console.log("started!");
+alert("Hello Amir Hamzeh Jabari!");
+console.log("finished!");
